@@ -3,5 +3,5 @@ int main(){
     int a = 2;
     int b = 5;
     int sum = a+b;
-    printf("Sum is: %d",sum);
+    printf("The Sum two numbers is: %d",sum);
 }
