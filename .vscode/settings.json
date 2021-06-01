@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "sum.C": "cpp",
-        "diff.C": "cpp"
+        "diff.C": "cpp",
+        "multiply.C": "cpp"
     }
 }
